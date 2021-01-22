@@ -1,0 +1,3 @@
+QMainWindow:可以包含菜单栏、工具栏、状态栏和标题栏
+QWidget：QMainWindow和QDialog的基类。
+QDialog：对话窗口的基类。没有工具栏和状态栏
