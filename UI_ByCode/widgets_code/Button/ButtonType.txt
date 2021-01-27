@@ -1,0 +1,7 @@
+所有Button的基类：QAbstractButton
+
+Button类型：
+QPushButton
+QToolButton
+QRadioButton
+QCheckBox
